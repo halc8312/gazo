@@ -1,0 +1,16 @@
+body {
+  background-image: url('path/to/your/image.jpg'); /* ここに画像のパスを指定 */
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#app {
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5); /* 背景を少し暗くする */
+  border-radius: 10px;
+}
